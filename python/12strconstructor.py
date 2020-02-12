@@ -1,0 +1,6 @@
+x = str("jcnowq7493")
+y = str(2)
+z = str(53.0)
+print(x)
+print(y)
+print(z)

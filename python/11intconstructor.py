@@ -1,0 +1,6 @@
+x = int(5)
+y = int(5.5)
+z = int("5")
+print(x)
+print(y)
+print(z)
